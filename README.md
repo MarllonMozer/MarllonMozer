@@ -16,7 +16,7 @@ Sou curioso por natureza, sempre em busca de novos aprendizados e desafios que m
     title="Python"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img 
     align="left" 
@@ -24,7 +24,7 @@ Sou curioso por natureza, sempre em busca de novos aprendizados e desafios que m
     title="PySpark"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"
 />
 <img 
     align="left" 
@@ -32,7 +32,7 @@ Sou curioso por natureza, sempre em busca de novos aprendizados e desafios que m
     title="Kotlin" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg"       
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"       
 />
 <img 
     align="left" 
@@ -40,7 +40,7 @@ Sou curioso por natureza, sempre em busca de novos aprendizados e desafios que m
     title="Java"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
@@ -56,7 +56,7 @@ Sou curioso por natureza, sempre em busca de novos aprendizados e desafios que m
     title="PostgreSql"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left" 
@@ -64,7 +64,7 @@ Sou curioso por natureza, sempre em busca de novos aprendizados e desafios que m
     title="Docker" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 <img 
     align="left" 
@@ -80,7 +80,7 @@ Sou curioso por natureza, sempre em busca de novos aprendizados e desafios que m
     title="Kafka"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" 
 />
 <img 
     align="left" 
@@ -88,7 +88,7 @@ Sou curioso por natureza, sempre em busca de novos aprendizados e desafios que m
     title="FireBase"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
 />
 <img 
     align="left" 
